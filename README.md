@@ -1,7 +1,9 @@
 # COCO-ROT:Robustizing Object Detection Networks Using Augmented Feature Pooling (ACCV2021)
 This is the official PyTorch impelementation of our paper "Robustizing Object Detection Networks Using Augmented Feature Pooling" (ACCV2021).
 
-![cover](./imgs/cover001.png)
+<p align="center">
+<img src="./imgs/cover001.png" width="66%" />
+</p>
 
 ## Generate COCO-ROT-train/val with new randmon angles
 `sh ./gen_COCO_ROT.sh`
