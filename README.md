@@ -5,13 +5,13 @@ This is an official PyTorch impelementation of our paper  "[Robustizing Object D
 <img src="./imgs/cover001.png" width="66%" />
 </p>
 
-## Generate COCO-ROT-train/val with new randmon angles
+## 1. Generate COCO-ROT-train/val with new randmon angles
 `sh ./gen_COCO_ROT.sh`
 
-## Generate COCO-ROT-train/val with same angles to our ACCV paper
+## 2. Generate COCO-ROT-train/val with same angles to our ACCV paper
 `sh ./gen_COCO_ROT_accv.sh`
 
-## Directory configuration
+## 3. Directory configuration
 ```
 COCO-ROT    # This directry  
  ├── coco   # Please place your MSCOCO dataset here  
