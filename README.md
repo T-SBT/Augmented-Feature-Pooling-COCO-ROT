@@ -1,5 +1,5 @@
-# COCO-ROT:Robustizing Object Detection Networks Using Augmented Feature Pooling (ACCV2021)
-This is the official PyTorch impelementation of our paper "Robustizing Object Detection Networks Using Augmented Feature Pooling" (ACCV2021).
+# COCO-ROT:Robustizing Object Detection Networks Using Augmented Feature Pooling (ACCV2022)
+This is the official PyTorch impelementation of our paper "Robustizing Object Detection Networks Using Augmented Feature Pooling" (ACCV2022).
 
 <p align="center">
 <img src="./imgs/cover001.png" width="66%" />
